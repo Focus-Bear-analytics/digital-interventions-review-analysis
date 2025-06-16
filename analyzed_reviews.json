@@ -1,0 +1,32 @@
+[
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "focus aid",
+        "key_issues": "User experienced an app reset that wiped out all rewards and has not received customer service support."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The app was recommended for improving focus and has positively contributed to the user's life."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "Helps block distractions and prevent doom scrolling; positive reinforcement from app's features; combination with pomodoro timer enhances study effectiveness."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The app helps with focusing by allowing users to set timers and provides a visual reward feature."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The app effectively helps improve focus and productivity through interactive features like planting trees. The user suggests enhancements like a widget for tracking and more ways to earn or buy trees."
+    }
+]
