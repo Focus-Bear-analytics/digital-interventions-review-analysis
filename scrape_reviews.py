@@ -9,18 +9,21 @@ OUTPUT_FILE = "reviews.json"
 REVIEW_LIMIT = 1000
 KEYWORDS = ["adhd", "focus", "autism", "autistic"]
 
+
 def main():
     try:
-
         app = AppStoreEntry(app_id=APP_ID, country=COUNTRY)
-
         # Setup language detector
-        detector = LanguageDetectorBuilder.from_languages(
-            Language.ENGLISH
-        ).with_preloaded_language_models().build()
+        detector = (
+            LanguageDetectorBuilder.from_languages(Language.ENGLISH)
+            .with_preloaded_language_models()
+            .build()
+        )
 
         reviews_list = []
-        print(f"Fetching up to {REVIEW_LIMIT} reviews for app ID {APP_ID} from the {COUNTRY.upper()} App Store...")
+        print(
+            f"Fetching up to {REVIEW_LIMIT} reviews for app ID {APP_ID} from the {COUNTRY.upper()} App Store..."
+        )
 
         # Fetch reviews with a limit
         for review in app.reviews(limit=REVIEW_LIMIT):
@@ -47,6 +50,7 @@ def main():
 
     except Exception as e:
         print(f"An error occurred: {e}")
+
 
 if __name__ == "__main__":
     main()
