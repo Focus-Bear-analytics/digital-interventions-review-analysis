@@ -11,7 +11,7 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 def analyze_reviews_in_bulk(reviews):
     # Analyzes a batch of reviews using the OpenAI API.
-    # Construct a single prompt with all reviews
+    # Construct a single prompt with reviews
     reviews_text = "\n".join([f'- "{review["content"]}"' for review in reviews])
 
     prompt = f"""
@@ -21,14 +21,16 @@ def analyze_reviews_in_bulk(reviews):
     **Instructions:**
     - `condition_mentioned`: If a neurodivergent condition is mentioned, list it. Otherwise, this field must be `null`.
     - `key_issues`: Summarize key issues or praise. If none are explicitly mentioned, briefly state "No specific issues or praise mentioned."
-
-    Example of the desired JSON output structure for a single review:
-    {{
-      "condition_mentioned": "ADHD",
-      "sentiment": "positive",
-      "assistive_function": "Helps with focus and time management.",
-      "key_issues": "The user loves the gamification aspect but wishes for more varied sounds."
-    }}
+    - `sentiment`: Categorize the sentiment as `positive`, `negative`, `neutral`, or `mixed`.
+    - `assistive_function`: A brief description of how the user uses the app as an assistive tool (e.g., "focus aid", "routine management").
+ 
+     Example of the desired JSON output structure for a single review:
+     {{
+       "condition_mentioned": "ADHD",
+       "sentiment": "positive",
+       "assistive_function": "Helps with focus and time management.",
+       "key_issues": "The user loves the gamification aspect but wishes for more varied sounds."
+     }}
 
     Reviews to analyze:
     {reviews_text}

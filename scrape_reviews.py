@@ -13,7 +13,7 @@ KEYWORDS = ["adhd", "focus", "autism", "autistic"]
 def main():
     try:
         app = AppStoreEntry(app_id=APP_ID, country=COUNTRY)
-        # Setup language detector
+        # Setup language detector to use only english reviews
         detector = (
             LanguageDetectorBuilder.from_languages(Language.ENGLISH)
             .with_preloaded_language_models()

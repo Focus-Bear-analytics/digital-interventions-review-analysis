@@ -86,6 +86,7 @@
         .sentiment.positive { background-color: #28a745; }
         .sentiment.negative { background-color: #dc3545; }
         .sentiment.neutral { background-color: #6c757d; }
+        .sentiment.mixed { background-color: #ffc107; }
     </style>
 </head>
 <body>
@@ -109,6 +110,7 @@
                     <option value="positive" {% if 'positive' == selected_sentiment %}selected{% endif %}>Positive</option>
                     <option value="negative" {% if 'negative' == selected_sentiment %}selected{% endif %}>Negative</option>
                     <option value="neutral" {% if 'neutral' == selected_sentiment %}selected{% endif %}>Neutral</option>
+                    <option value="mixed" {% if 'mixed' == selected_sentiment %}selected{% endif %}>Mixed</option>
                 </select>
                 <a href="/">Clear</a>
             </form>
