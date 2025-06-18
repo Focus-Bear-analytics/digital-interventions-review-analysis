@@ -1,0 +1,818 @@
+[
+    {
+        "condition_mentioned": null,
+        "key_issues": "The app reset unexpectedly during a promo, wiping out all earned rewards from as far back as 2019, and customer service did not respond.",
+        "sentiment": "negative",
+        "assistive_function": "Used as a focus aid to help maintain productivity."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The reviewer appreciated the recommendation and noted that the app helps inspire intentional moments of settling down and focus.",
+        "sentiment": "positive",
+        "assistive_function": "Serves as a tool to promote intentional focus throughout the day."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The review praises the app for blocking distracting apps, preventing doom scrolling, and providing visual reinforcement (via a growing tree) to stay focused, especially during study times.",
+        "sentiment": "positive",
+        "assistive_function": "Helps manage study times and blocks distractions to aid focus."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The user appreciates the ability to set focus periods and see a visual reward (trees growing) as a motivational tool.",
+        "sentiment": "positive",
+        "assistive_function": "Acts as a focus aid by providing timed sessions with visual rewards."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The review highlights how the app has transformed the user's study habits by turning perfectionism into motivation, boosting productivity, and providing a tangible visual measure of progress. It also includes suggestions for an iPhone widget and additional reward opportunities.",
+        "sentiment": "positive",
+        "assistive_function": "Functions as a study aid that facilitates long study sessions and visual progress tracking."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The reviewer criticizes the app\u2019s design for hijacking the brain\u2019s reward system, leading to distraction and an unhealthy focus on in-app rewards, particularly with overt 'pay-to-play' options.",
+        "sentiment": "negative",
+        "assistive_function": "Intended as a productivity/focus tool, though the reviewer feels it detracts from focus due to its reward system."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The app appears to increase stress rather than help the user focus, as it emphasizes numerical goals over actual successes.",
+        "sentiment": "negative",
+        "assistive_function": "Aims to serve as a focus aid but ends up adding stress about meeting goals."
+    },
+    {
+        "condition_mentioned": "ADHD, autism",
+        "key_issues": "While the reviewer finds the app effective in keeping ADHD in check, there is concern about running out of available trees and a request for more features to maintain motivation and customization.",
+        "sentiment": "positive",
+        "assistive_function": "Helps manage focus and attention challenges associated with ADHD (and can benefit users with autism)."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "Glitches during an event prevented the user from spending coins and receiving the promised reward (cake tree), leading to frustration and disappointment.",
+        "sentiment": "negative",
+        "assistive_function": "Intended to help focus by turning prolonged concentration into rewards, but technical issues hinder its effectiveness."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The review criticizes the app for being a money-driven store rather than a genuine focus aid. It fails to block distracting apps properly, promotes excessively long focus times without breaks, and is plagued by bugs and crashes.",
+        "sentiment": "negative",
+        "assistive_function": "Marketed as a focus tool, but its design and technical issues detract from its intended assistive function."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus aid and habit building",
+        "key_issues": "User praises the app for its simplicity, effectiveness, and ability to help maintain focus and build better habits."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Pomodoro timer",
+        "key_issues": "User finds the app non-intuitive with a Pomodoro break timer that isn\u2019t obvious, despite it functioning adequately."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "negative",
+        "assistive_function": "Tracking/documenting driving hours and other activities",
+        "key_issues": "User reports a major bug where previously planted trees disappear after an update, causing loss of documented driving hours and significant stress."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Distraction management",
+        "key_issues": "User credits the app with improving life by reducing phone distraction and encouraging more positive, intentional behaviors."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus aid for studies and work",
+        "key_issues": "User highly recommends the app for its effectiveness in helping maintain focus during studies and work."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Managing distractions in online classes",
+        "key_issues": "User appreciates the deep focus mode, ease of setting timers for school, and the satisfying visual of a healthy forest."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "General focus aid",
+        "key_issues": "User loves the app for its cute tree visuals and its ability to enhance focus."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Task focus and break reminders",
+        "key_issues": "User values the app for its support in maintaining focus on one task, reminding to take breaks, and its appealing design, especially for people with ADHD."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Digital detox aid",
+        "key_issues": "User praises the app for reducing the habit of mindlessly reopening or refreshing apps and redirecting focus from doomscrolling."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Time management and focus aid",
+        "key_issues": "User finds the app awesome and useful for staying focused and managing time more effectively compared to previous apps."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps with deep focus and study management.",
+        "key_issues": "The review praises the app's ad\u2010free experience, multiple focus options, gamified tree planting, and detailed statistics."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Focus aid, especially for managing ADHD.",
+        "key_issues": "The user finds the app helpful and fun, highlighting its effectiveness in improving focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus and mindfulness tool for academic and personal improvement.",
+        "key_issues": "The user appreciates that the app aids in keeping focused for studying and mindfulness."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Focus aid used for productivity and concentration.",
+        "key_issues": "The review expresses deep disappointment due to loss of user data, purchased add-ons, and usage history without any user action."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Helps with managing focus sessions.",
+        "key_issues": "While the user loves the idea of the app, bugs with the widgets and focus settings that fail to block apps are a major issue."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Productivity tool for managing tasks and focus challenges.",
+        "key_issues": "The review details persistent bugs, particularly in the new Focus Challenges feature, which disrupts the user\u2019s workflow and productivity."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Serves as a motivational tool to encourage focus.",
+        "key_issues": "The user finds the app cute and fun, which positively influences their desire to focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus enhancer that also promotes mindfulness and a balanced lifestyle.",
+        "key_issues": "The review praises the app's value for monk mode and focus, highlighting the innovative forest building and tree planting features as a form of giving back to nature."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Used as a reliable focus support tool.",
+        "key_issues": "The user commends the app for working well most of the time and appreciates the developer's responsiveness to occasional issues."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Enhances productivity and offers flexible focus management.",
+        "key_issues": "The review emphasizes increased productivity, effective focus support, and the benefit of flexible focus settings."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid for studies",
+        "key_issues": "Helps the user focus on studies."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus management and work tracking",
+        "key_issues": "Valued for staying focused and tracking work; extra features are seen as both unnecessary yet helpful."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "focus management for task completion",
+        "key_issues": "Praise for gamified elements (little trees, count-up timer, social planting) and productivity, but issues with the allow list freezing and usability bugs were noted."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "tracking tasks via tags",
+        "key_issues": "Experiences bugs where tags are deleted or renamed unexpectedly, which undermines tracking activities."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "mixed",
+        "assistive_function": "focus aid for academic and personal achievement",
+        "key_issues": "Highly effective for enhancing focus and academic performance, but the switch to a subscription model is heavily criticized."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "assisting in maintaining focus",
+        "key_issues": "Enjoys the gamified plant growing feature that helps maintain focus longer, though the app is still being learned."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "engagement in focus challenges",
+        "key_issues": "Frequent bugs in the focus challenges, including issues with awarding and abnormal time displays, leading to frustration."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "support for studying and focus through gamification",
+        "key_issues": "While the tree growing feature works well, there are ongoing bugs affecting the focus challenges."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "tracking focus challenge progress",
+        "key_issues": "The focus challenge page crashes and fails to log accomplishments."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "incentivizing focus through challenge tasks",
+        "key_issues": "The focus challenge system fails to update rewards, creating significant frustration and a feeling of psychological distress."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Enhances reading engagement and focus.",
+        "key_issues": "App is praised for making reading more entertaining with its creative tree-planting and focus features."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps sustain prolonged focus during work by locking distracting apps.",
+        "key_issues": "The user finds the app a game changer with its focus timer and app-locking options during a difficult life period."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Serves as a focus aid in academic and work-related tasks.",
+        "key_issues": "The user briefly notes that the app helps them manage focus alongside their ADHD."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Supports focus through gamification and focus challenges.",
+        "key_issues": "While the user loves the trees, events, and focus challenges, glitches with challenge completion and the allow list feature are problematic."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Acts as a focus aid.",
+        "key_issues": "The review is succinct, emphasizing that the app significantly improves focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps improve focus and task completion for those with low attention span.",
+        "key_issues": "The user, who struggles with a low attention span, describes the app as a life changer and recommends it."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Aids in deep focus by locking distracting functionalities.",
+        "key_issues": "Despite strong overall appreciation, persistent bugs with whitelist and Deep Focus functions, including screen blanking and interference with other apps, are a significant issue."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Functions as a focus tracker with a gamified experience.",
+        "key_issues": "The user suggests adding visualization features and gamified elements to further enhance the fun and fulfillment of tracking focus time."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Helps maintain focus and reduce phone usage, especially during educational activities.",
+        "key_issues": "Long-term daily use is celebrated; features such as new tree species and focus challenges are highlighted for their motivational impact, particularly for ADHD users."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Serves as a tool to boost focus and productivity.",
+        "key_issues": "The app is praised for helping maintain focus and productivity, though the user wishes sessions were a bit longer."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps manage focus and productivity by using a gamified focus session.",
+        "key_issues": "Loves the productivity benefits and lifetime purchase option, but is unsure about the new subscription model."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Serves as a motivational tool and focus aid during challenging personal times.",
+        "key_issues": "The app helps overcome ADHD freeze mode and depression, contributing positively to daily achievements."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "mixed",
+        "assistive_function": "Acts as a productivity booster by tracking progress with a virtual forest.",
+        "key_issues": "Started with high praise for helping with ADHD, but later experienced a data loss issue and lack of support recovery."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "neutral",
+        "assistive_function": "Intended to boost daily productivity and engagement.",
+        "key_issues": "Suggests adding at least two focus monthly challenges to enhance user engagement and motivation."
+    },
+    {
+        "condition_mentioned": "ADHD-like tendencies",
+        "sentiment": "positive",
+        "assistive_function": "Improves focus and study time management with features like widgets and challenges.",
+        "key_issues": "Highly praises the app for extending focus duration and providing motivational tracking, especially when coupled with other study aids."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps in reducing distractions and managing focus during work.",
+        "key_issues": "Commends the app for its unique mechanism that discourages distraction (e.g., fear of killing the tree) and aids in avoiding doomscrolling."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Aids deep focus mode by managing app usage during focus sessions.",
+        "key_issues": "Experiences a bug where the app freezes when trying to add apps to the allowed list in deep focus mode."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Serves as a tool for time blocking and focus, by tracking time and rewarding productive effort.",
+        "key_issues": "Loves the app\u2019s effectiveness in tracking time and structuring focus sessions."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Provides gentle reminders for staying on task and uses a fun visual metaphor to maintain focus.",
+        "key_issues": "Praised for its enjoyable design and effective reminders that keep the user focused on tasks."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Boosts productivity and helps manage a heavy workload through focus enhancement.",
+        "key_issues": "Highly effective in increasing productivity despite the challenges of severe ADHD, with notable improvements in output."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Helps with balancing focus and scheduling break reminders.",
+        "key_issues": "App gamifies focus cycles to overcome bad habits like mindless scrolling and helps maintain focus with timely breaks."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Acts as a focus tracker and distraction blocker.",
+        "key_issues": "Praised for a clean, calming interface, effective app blocking, and a unique tree planting feature without pushy subscriptions."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps maintain focus during Bible study and meeting preparations.",
+        "key_issues": "Highlights the fun aspect of staying focused while engaging in study and meeting preparations."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Simple focus aid.",
+        "key_issues": "Simply noted that the app has helped improve focus."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "Focus aid during creative writing.",
+        "key_issues": "The focus challenges are appreciated; the app\u2019s simplicity helps the user stay on task when writing a novel."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Motivates productivity through focus challenges.",
+        "key_issues": "The Focus Challenge and coin/crystal rewards are seen as game changers; minor suggestion to add more sorting options for trees."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps reduce phone usage and promotes engagement in hobbies through focus challenges.",
+        "key_issues": "Loved for its simplicity and cute design; praises the reward system and the focus-based coin mechanism, with minimal payment barriers."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Supports focus and motivation post productivity.",
+        "key_issues": "A motivating app that helps improve focus and enhances mood after completing tasks; strongly recommended."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Serves as a focus and motivation aid.",
+        "key_issues": "While the app is effective in keeping the user focused and motivated, the presence of bugs detracts slightly from the overall experience."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Intended as a focus tracker and motivational tool.",
+        "key_issues": "The app fails in its promise to block other apps, with design and performance issues; poor customer support led to a refund request."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Focus aid",
+        "key_issues": "After the update, the focus challenge feature fails to load completely and bugs persist."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Focus aid",
+        "key_issues": "The user praises the app for helping with focus but wishes for more personalization options."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Focus aid",
+        "key_issues": "While the user loves the app overall, recent issues such as frequent crashes and difficulty exiting focus mode make it nearly unusable."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Helps break phone addiction and improve focus",
+        "key_issues": "The review criticizes the introduction of AI, the move to a subscription model, added complexity, and persistent bugs that detract from the simple purpose of the app."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus aid",
+        "key_issues": "The review praises the app as an entertaining way to track focus on projects with no specific issues mentioned."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus aid",
+        "key_issues": "The user finds the app both cute and helpful when needing to focus, with no specific criticisms."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Focus aid",
+        "key_issues": "While the user appreciates the app\u2019s role in keeping them focused and tracking productivity, they are frustrated by recurring bugs such as freezing, erroneous tree deaths, and blank screens."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Focus aid and productivity tracker",
+        "key_issues": "The review conveys love for the app and its features but expresses disappointment over glitches, data loss due to not having an account, and the consequent need to start over."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Focus aid",
+        "key_issues": "The reviewer enjoys the app for helping them focus and achieve goals but is concerned about upcoming subscription fees, suggesting a lifetime pay-once option or grandfathering current users."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Focus aid",
+        "key_issues": "The review expresses general love for the app and its effectiveness in aiding focus, with no further issues noted."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The user praises the recent update with lofi music and the tree planting feature, along with overall great design and options."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus timer",
+        "key_issues": "The review is a straightforward praise of the app as a go-to focus timer with long-term usage."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The user uses the app as a mental cue to remain focused, drawing a clever parallel with the 'Stay on target' motif."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "deep focus aid",
+        "key_issues": "The review details several glitches: limitations on coin multipliers, unexpected app shutdowns, home screen clock issues, and issues related to memory deletion affecting focus timers."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "distraction blocker and focus aid",
+        "key_issues": "The user appreciates that the app helps them stay off their phone and maintain focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The review praises the app\u2019s aesthetic, calming design, and its effectiveness in enhancing focus, deeming it money well spent."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "focus aid",
+        "key_issues": "While the user values that the app has enabled extensive focus (nearly 600 hours), they also report issues with the app shutting down and running slowly, seeking a bug fix."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "focus management through gamification",
+        "key_issues": "The review lists pros such as its focus aid and gamification, but criticizes its incompatibility with shortcuts for automation, lack of support communication, and the missing 12hr clock feature."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "phone usage reducer and focus aid",
+        "key_issues": "The user highlights that the app effectively blocks excessive phone usage and improves focus, productivity, and bedtime routines, but notes occasional bugs with loading and refreshing, alongside praise for a one-time purchase model over subscriptions."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Helps with focus and concentration.",
+        "key_issues": "User praises the app for helping them stay focused with an enthusiastic tone."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Focus session tracking.",
+        "key_issues": "User complains about multiple bugs including focus challenge not loading, sign-in errors, timer issues, and concerns about losing progress."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Tracking focus sessions for productivity.",
+        "key_issues": "User is frustrated that new features (like 'Seekr') are not loading and that login issues have rendered basic focus tracking unusable."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Participation in focus challenges.",
+        "key_issues": "User reports that the focus challenge never loads and criticizes the lack of support and fixes, leading them to consider switching to a different app."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Improving concentration for studying and practicing skills.",
+        "key_issues": "User shares a positive experience of forming a habit of concentration, praising the design and motivational aspects of the app."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Boosting productivity and focus.",
+        "key_issues": "User highly praises the app for being fun and effective in improving productivity and focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "Deep focus mode management.",
+        "key_issues": "User is disappointed that deep focus mode does not block other apps as expected, rendering the app useless for its intended function."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "Rewarding focus sessions.",
+        "key_issues": "User appreciates the app's rewarding system where focus leads to tree planting, thereby reinforcing positive behavior."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Managing pomodoro-style focus sessions.",
+        "key_issues": "User reports severe issues like instability, long loading times, crashes, bugs with deep focus mode, limited Apple Watch support, and irritating UI choices. However, the clever tree planting system, useful statistics, and competition features are acknowledged positively."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Solo tree planting and basic focus management.",
+        "key_issues": "User finds the app generally great for solo use but criticizes the broken focus challenge and issues with the 'planting tree together' feature, hoping for future fixes."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The review praises the easy-to-use UI, gamification elements (coins, challenges, crystals), and rewarding focus sessions, while urging that new features should not compromise these aspects."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "User loves how well the app helps them focus and appreciates the cute tree visuals."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The review indicates an improvement in focus, though the comment is incomplete."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "User values the app as an effective tool for staying focused at work and enjoys its tree theme."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The review is highly detailed in praise, highlighting features such as focus challenges, real tree planting, customizable timers (stopwatch versus timer), and detailed progress tracking; it also offers suggestions like seasonal decorations and a pomodoro timer."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "User praises the app\u2019s ability to eliminate phone distractions, its motivating tree-planting aspect, and its overall effectiveness in helping them focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "A brief, positive comment emphasizing the app's focus-enhancing capabilities."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "focus aid",
+        "key_issues": "User reports technical issues: the app stopped blocking other apps during focus sessions and data (trees and focus hours) was lost after reinstalling."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "Pomodoro and focus aid",
+        "key_issues": "User loves the interface, variety of trees, and Pomodoro functionality, but is disappointed by the inability to select different variations of trees during longer focus sessions, which impedes full access to available tree species."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "study focus aid",
+        "key_issues": "User finds the app great for maintaining focus while studying."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "helping with focus",
+        "key_issues": "Praise for the gamification approach that keeps users engaged in focusing."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "aiding deep focus",
+        "key_issues": "While the user loves the app and has been a long-term user, they report that the deep focus mode is broken and need an update to fix it."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "aiding focus sessions",
+        "key_issues": "The user complains about infrequent updates, lack of features like an automatic break timer, usability issues including crashes, freezing, and unintended coin deductions."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "helping with focus",
+        "key_issues": "The app is praised for being perfect for focusing and easy to use."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "helping with focus",
+        "key_issues": "The user notes that the app has helped them focus, even with minimal usage so far."
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "sentiment": "positive",
+        "assistive_function": "aiding focus and managing ADHD symptoms",
+        "key_issues": "The user compliments the app for its positive impact on their ADHD and overall focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "helping with focus",
+        "key_issues": "Simple and straightforward praise as a great tool for focusing."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "enhancing focus and productivity",
+        "key_issues": "The review emphasizes that the app has helped the user focus, leading to increased productivity (reading more books) and offers appealing progress metrics."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "helping with focus",
+        "key_issues": "The user appreciates that the app makes focusing fun and thereby increases productivity."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "helping with focus",
+        "key_issues": "The user reports that despite updating and reinstalling, the allow list feature does not work, particularly with finance and banking apps, leading to crashes and overall frustration."
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User praises the app for helping with study focus and loves the gamified tree planting reward system.",
+        "sentiment": "positive",
+        "assistive_function": "focus aid for study and concentration"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User is frustrated that the app no longer correctly tracks focus sessions, allowing tree growth without proper engagement.",
+        "sentiment": "negative",
+        "assistive_function": "deep focus mode tracker"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User appreciates that the app helps maintain focus and provides motivation.",
+        "sentiment": "positive",
+        "assistive_function": "focus aid"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User notes an inconsistency: when leaving deep focus mode, the expected consequence (plants dying) does not occur.",
+        "sentiment": "mixed",
+        "assistive_function": "focus mode enforcement via plant indicators"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User values the app for boosting focus and transforming work from a dreaded task into an exciting one.",
+        "sentiment": "positive",
+        "assistive_function": "motivation and focus aid"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User is highly satisfied with the reliability and rewarding system of the app, considering it superior to previous alternatives.",
+        "sentiment": "positive",
+        "assistive_function": "focus aid for productivity"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "User complains that the app fails to maintain a consistent logged-in state, disrupting productivity during focus sessions.",
+        "sentiment": "negative",
+        "assistive_function": "facilitates timed focus sessions"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "Though the app effectively keeps the user off their phone, the inclusion of microtransactions in a paid app is seen as a major drawback.",
+        "sentiment": "negative",
+        "assistive_function": "reduces phone usage to aid concentration"
+    },
+    {
+        "condition_mentioned": "ADHD",
+        "key_issues": "User highlights that the timer feature provides a sense of accomplishment, which is especially helpful for managing ADHD.",
+        "sentiment": "positive",
+        "assistive_function": "timer-based focus aid"
+    },
+    {
+        "condition_mentioned": null,
+        "key_issues": "The review, though brief, indicates that the app helps maintain focus.",
+        "sentiment": "positive",
+        "assistive_function": "focus aid"
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "negative",
+        "assistive_function": "focus aid",
+        "key_issues": "The app is described as a tough focus tool that doesn\u2019t penalize device usage, making it less effective for accountability."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The user praises the customizable time settings and its ability to help focus on tasks."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "study focus aid",
+        "key_issues": "The review highlights the motivational aspect of planting trees and the locked-phone feature that facilitates real-time focus."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "group study support",
+        "key_issues": "The app is appreciated for helping maintain focus while also connecting with friends for group study."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "mixed",
+        "assistive_function": "focus aid with gamification",
+        "key_issues": "While the user loves the app overall, they express frustration that the deep focus mode isn\u2019t blocking non-allowlisted apps, which affects the gamified tree growth progress."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "focus aid",
+        "key_issues": "The user, who struggles with focus, finds the app very helpful in maintaining concentration."
+    },
+    {
+        "condition_mentioned": null,
+        "sentiment": "positive",
+        "assistive_function": "study focus aid",
+        "key_issues": "The app is commended for helping a student stay focused and on task while studying."
+    }
+]
