@@ -27,9 +27,14 @@ def analyze_reviews_in_bulk(reviews):
      Example of the desired JSON output structure for a single review:
      {{
        "condition_mentioned": "ADHD",
+       "condition_mentioned_arabic": "اضطراب نقص الانتباه مع فرط النشاط",
        "sentiment": "positive",
+       "review_score": 5,
+       "sentiment_arabic": "إيجابي",
        "assistive_function": "Helps with focus and time management.",
-       "key_issues": "The user loves the gamification aspect but wishes for more varied sounds."
+       "assistive_function_arabic": "يساعد في التركيز وإدارة الوقت.",
+       "key_issues": "The user loves the gamification aspect but wishes for more varied sounds.",
+       "key_issues_arabic": "يحب المستخدم جانب الألعاب ولكنه يتمنى وجود أصوات متنوعة أكثر."
      }}
 
     Reviews to analyze:
@@ -42,7 +47,7 @@ def analyze_reviews_in_bulk(reviews):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are an expert at analyzing app reviews and returning structured JSON.",
+                    "content": "You are an expert at analyzing app reviews and returning structured JSON. You can understand and respond in both English and Arabic.",
                 },
                 {"role": "user", "content": prompt},
             ],
@@ -71,7 +76,7 @@ def main():
     all_results = []
 
     # Limit to the first 20 reviews for testing
-    # reviews_to_process = reviews[:20]
+    reviews_to_process = reviews[:100]
 
     for i in range(0, len(reviews), chunk_size):
         batch = reviews[i : i + chunk_size]
